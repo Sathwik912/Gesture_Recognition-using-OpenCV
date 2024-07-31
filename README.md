@@ -3,9 +3,9 @@ Gesture-Controlled Servo Motor project combines computer vision and hardware int
 
 
 # Software Libraries
-Python 3.7-3.9
-OpenCV
-mediapipe
-pyFirmata
+* Python 3.7-3.9
+* OpenCV
+* mediapipe
+* pyFirmata
 
 Note: Python version 3.7-3.9 is chosen for this project due to its compatibility with the pyFirmata library, which is crucial for communication between the computer and Arduino board.
